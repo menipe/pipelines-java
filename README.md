@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mt-motivational-techniques/pipelines-java/_apis/build/status/menipe.pipelines-java?branchName=master)](https://dev.azure.com/mt-motivational-techniques/pipelines-java/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
